@@ -1,12 +1,3 @@
-## Hi there 👋
+## [데보션](https://devocean.sk.com/)영 2기 🥐니빵내빵🥖의 공간
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+💡 빵과 개발을 좋아하는 사람 4명의 모임!
